@@ -265,10 +265,10 @@ location: {
 
   // --- HORÁRIOS ---
   hours: [
-    { day: "Segunda", time: "18h00 - 22h30", highlight: false },
-    { day: "Ter a Qui", time: "18h00 - 22h30", highlight: false },
-    { day: "Sex e Sáb", time: "18h00 - 23h00", highlight: true }, // Highlight: Amarelo
-    { day: "Dom", time: "18h00 - 23h00", highlight: false }
+    { day: "Segunda", time: "18h30 - 22h30", highlight: false },
+    { day: "Ter a Qui", time: "18h30 - 22h30", highlight: false },
+    { day: "Sex e Sáb", time: "18h30 - 23h00", highlight: true }, // Highlight: Amarelo
+    { day: "Dom", time: "18h30 - 23h00", highlight: false }
   ],
 
   // --- CONFIGURAÇÃO VISUAL ---
