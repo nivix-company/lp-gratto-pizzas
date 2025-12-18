@@ -61,7 +61,7 @@ social: [
   },
 footer: {
     // Texto descritivo
-    brandSlogan: "A melhor pizza Gourmet da cidade é na Gratto!",
+    brandSlogan: `A melhor pizza Gourmet da cidade é na Gratto. Prove e seja!`,
     copyrightText: "Todos os direitos reservados.",
     
     // Links de Navegação
@@ -268,7 +268,7 @@ location: {
     { day: "Segunda", time: "18h30 - 22h30", highlight: false },
     { day: "Ter a Qui", time: "18h30 - 22h30", highlight: false },
     { day: "Sex e Sáb", time: "18h30 - 23h00", highlight: true }, // Highlight: Amarelo
-    { day: "Dom", time: "18h30 - 23h00", highlight: false }
+    { day: "Dom", time: "Fechado", highlight: false }
   ],
 
   // --- CONFIGURAÇÃO VISUAL ---
