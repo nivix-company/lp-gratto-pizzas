@@ -105,7 +105,7 @@ footer: {
   headline: "Pizza Gourmet de Qualidade",
   subheadline: "Ingredientes selecionados, massa fermentada e o melhor sabor da cidade.",
   badgeText: "Bem-vindo à Experiência Gratto",
-  bgImage: "/bggrt.png",
+  bgImage: "/hero-bg.jpg",
   
   // --- VISIBILIDADE (O que existe ou não - ON/OFF) ---
   visibility: {
@@ -178,7 +178,7 @@ highlights: {
       name: "Xis da Gratto",
       description: "Todos os sabores premiums da Gratto, o melhor da cidade!",
       price: "R$ 68,00",
-      image: "/xisp.png",
+      image: "/xis.jpg",
       badge: "Mais Pedida", // Opcional
       link: "https://wa.me/5491834554?text=Quero+a+Marguerita" // Link direto do produto
     },
@@ -187,7 +187,7 @@ highlights: {
       name: "Pizza GG",
       description: "Os melhores sabores da casa em promoção!",
       price: "R$ 62,00",
-      image: "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=1000&auto=format&fit=crop",
+      image: "/pizza.jpg",
       badge: "Oferta",
       link: "https://wa.me/5491834554?text=Quero+a+Marguerita"
     },
@@ -210,8 +210,8 @@ about: {
   
   // Imagens (Mantive as originais pois o pedido era só sobre as copys de texto)
   images: [
-    "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=600&auto=format&fit=crop", 
-    "https://images.unsplash.com/photo-1551183053-bf91a1d81141?q=80&w=600&auto=format&fit=crop"
+    "/about-prep.jpg",
+    "/about-delivery.jpg"
   ],
 
   // Stats (Adaptados para focar em qualidade e modelo de negócio, não apenas tempo)
