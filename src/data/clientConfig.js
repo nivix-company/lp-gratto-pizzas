@@ -196,7 +196,7 @@ highlights: {
       name: "Açai Gratto",
       description: "Cremoso e com adicionais perfeitos",
       price: "R$ 85,00",
-      image: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?q=80&w=1000&auto=format&fit=crop",
+      image: "/acai.jpg",
       link: "https://wa.me/5491834554?text=Quero+a+Marguerita"
     }
   ]
